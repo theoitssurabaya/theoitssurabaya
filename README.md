@@ -11,7 +11,7 @@ I am a **Computer Engineering** student at **Institut Teknologi Sepuluh Nopember
 - **Operating System:** Ubuntu Linux (Power User).
 
 ### 📫 Let's Connect:
-- **LinkedIn:** [linkedin.com/in/theokawalisapinem](https://www.linkedin.com/in/theokawalisapinem)
+- **LinkedIn:** [linkedin.com/in/theopinem](https://www.linkedin.com/in/theopinem/)
 - **Portfolio:** [github.com/theoitssurabaya](https://github.com/theoitssurabaya)
 - **Email:** theopinem05@gmail.com
 
