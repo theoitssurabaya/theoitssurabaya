@@ -10,8 +10,6 @@ I am a **Computer Engineering** student at **Institut Teknologi Sepuluh Nopember
 - **Protocols & Tools:** MQTT, Node-RED, AutoCAD Fusion (3D Design), Git/GitHub.
 - **Operating System:** Ubuntu Linux (Power User).
 
----
-
 ### 📫 Let's Connect:
 - **LinkedIn:** [linkedin.com/in/theokawalisapinem](https://www.linkedin.com/in/theokawalisapinem)
 - **Portfolio:** [github.com/theoitssurabaya](https://github.com/theoitssurabaya)
