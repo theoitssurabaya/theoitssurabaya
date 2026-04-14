@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👋 Hi, I'm Theo Kawalisa Pinem!
 
 **Computer Engineering Student at Institut Teknologi Sepuluh Nopember (ITS)**
