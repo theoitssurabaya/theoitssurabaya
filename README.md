@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Theo Kawalisa Pinem!
+# 👋 Hi, I'm Theo Kawalisa Pinem!
 
 **Computer Engineering Student at Institut Teknologi Sepuluh Nopember (ITS)**
   
@@ -35,16 +35,6 @@ I have a deep passion for bridging the gap between hardware and intelligence. My
   <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=node-red&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub Activities
-
-<img src="https://github-readme-stats.vercel.app/api?username=theoitssurabaya&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=888888" alt="Theo's GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoitssurabaya&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=888888" alt="Top Languages" />
 
 ---
 
