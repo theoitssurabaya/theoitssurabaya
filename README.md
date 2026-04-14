@@ -12,19 +12,6 @@ I am a **Computer Engineering** student at **Institut Teknologi Sepuluh Nopember
 
 ---
 
-### 📊 My GitHub Metrics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=theoitssurabaya&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoitssurabaya&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theoitssurabaya&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📫 Let's Connect:
 - **LinkedIn:** [linkedin.com/in/theokawalisapinem](https://www.linkedin.com/in/theokawalisapinem)
 - **Portfolio:** [github.com/theoitssurabaya](https://github.com/theoitssurabaya)
