@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-5611804c-539f-4449-b041-e94e96fac227.gif" width="100%">
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=IoT+Developer;Edge+AI+Enthusiast;Computer+Engineering+Student" alt="Typing SVG" />
+  </a>
+</p>
 
 # 👋 Hi, I'm Theo Kawalisa Pinem!
 
@@ -51,9 +53,9 @@ I have a deep passion for bridging the gap between hardware and intelligence. My
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoitssurabaya/theoitssurabaya/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theoitssurabaya/theoitssurabaya/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theoitssurabaya/theoitssurabaya/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoitssurabaya/theoitssurabaya/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theoitssurabaya/theoitssurabaya/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theoitssurabaya/theoitssurabaya/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
