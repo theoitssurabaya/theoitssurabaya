@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-5611804c-539f-4449-b041-e94e96fac227.gif" width="100%">
+</div>
+
 # 👋 Hi, I'm Theo Kawalisa Pinem!
 
 **Computer Engineering Student at Institut Teknologi Sepuluh Nopember (ITS)**
@@ -44,6 +48,14 @@ I have a deep passion for bridging the gap between hardware and intelligence. My
   <img src="https://github-readme-stats.vercel.app/api?username=theoitssurabaya&show_icons=true&theme=radical" alt="theoitssurabaya's GitHub stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoitssurabaya&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoitssurabaya/theoitssurabaya/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theoitssurabaya/theoitssurabaya/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theoitssurabaya/theoitssurabaya/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
