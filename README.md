@@ -22,24 +22,34 @@ I have a deep passion for bridging the gap between hardware and intelligence. My
 
 ### 🛠 Tech Stack & Tools
 
-**Languages & Frameworks**
+**AI & Data**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Deep%20Learning-150458?style=flat" />
+  <img src="https://img.shields.io/badge/Neural%20Networks-FF6F00?style=flat" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-FF4B4B?style=flat" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
 </p>
 
-**Hardware & Infrastructure**
+**Hardware & IoT**
 <p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-3C52F0?style=for-the-badge&logo=mqtt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=node-red&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi,cpp" />
+  <br><br>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=flat&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/MicroPython-2B5B84?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sensor%20Integration-00599C?style=flat" />
+  <img src="https://img.shields.io/badge/Smart%20Systems-3776AB?style=flat" />
+</p>
+
+**Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,dart,flutter" />
+  <br><br>
+  <img src="https://img.shields.io/badge/System%20Architecture-000000?style=flat" />
+  <img src="https://img.shields.io/badge/Pygame-F7931E?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful%20APIs-005571?style=flat" />
 </p>
 
 ---
@@ -64,13 +74,16 @@ I have a deep passion for bridging the gap between hardware and intelligence. My
 ### 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/theopinem/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 <a href="mailto:theopinem05@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
 </a>
 <a href="https://github.com/theoitssurabaya">
-  <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
+<a href="https://theopinem.vercel.app/">
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
 </a>
 
 <br/>
