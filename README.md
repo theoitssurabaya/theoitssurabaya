@@ -57,8 +57,8 @@ I have a deep passion for bridging the gap between hardware and intelligence. My
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theoitssurabaya&show_icons=true&theme=radical" alt="theoitssurabaya's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoitssurabaya&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=theoitssurabaya&show_icons=true&theme=radical" alt="theoitssurabaya's GitHub stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=theoitssurabaya&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 <div align="center">
